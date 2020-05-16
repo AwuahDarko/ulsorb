@@ -905,6 +905,7 @@ textarea.input {
 
 .product.product-single .product-thumb>img {
   width: 100%;
+  height: 220px;
 }
 
 .product.product-single .product-thumb:after {
@@ -1746,6 +1747,9 @@ textarea.input {
   font-size: 1.5rem !important;
 }
 
+.small-banner>img{
+  height: 376px;
+}
 
 
 /*=========================================================
